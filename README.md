@@ -23,9 +23,10 @@ Heroku公式のRubyのサンプルはいろいろとファイルが多いので�
 ```
 web: ruby app.rb $PORT
 ```
-- $PORT にウェブサーバーのポート番号が入ってくる。引数で受け取ってアプリに渡す(80ではない)
+- $PORT にウェブサーバーのポート番号が入ってくる。引数で受け取ってアプリに渡す(80や443ではない)
 
 ## デプロイ
 
-実際にHerokuでデプロイしてみたい人は以下のボタンで。
+実際にHerokuでデプロイしてみたい人は以下のボタンで
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku)
