@@ -8,9 +8,6 @@ Heroku公式のRubyのサンプルはいろいろとファイルが多いので�
 
 - 実際にデプロイして動作している例( https://super-simple-ruby-webserver.herokuapp.com )
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku)
-
-
 ## ファイル構成
 
 - app.rb アプリ本体(ファイル名は任意。Procfile内で指定する)
@@ -20,10 +17,15 @@ Heroku公式のRubyのサンプルはいろいろとファイルが多いので�
 
 ## メモ
 
-- このプログラム自体は HELLO WORLD を返すだけのWebサーバー
+- このプログラム自体はWebrickを使ったシンプルなWebサーバー
 - Gemfile.lock は bundle install 時に作られる
 - Procfile の中身は web: はじまりで起動したいアプリを記載
+```
+web: ruby app.rb $PORT
+```
 - $PORT にウェブサーバーのポート番号が入ってくる。引数で受け取ってアプリに渡す(80ではない)
 
-web: ruby app.rb $PORT
+## デプロイ
 
+実際にHerokuでデプロイしてみたい人は以下のボタンで。
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku)
