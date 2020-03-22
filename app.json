@@ -6,6 +6,9 @@
     ],
     "website": "https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku",
     "repository": "https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku",
-      "image": "heroku/ruby"
+    "env": {
+        "image": "heroku/ruby"
     }
   }
+}
+
