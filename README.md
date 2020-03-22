@@ -6,6 +6,8 @@ Heroku の上にデプロイして最小限で実行できるWebサーバー
 
 Heroku公式のRubyのサンプルはいろいろとファイルが多いので、最小限何があれば動くか調査した。
 
+- 実際にデプロイして動作している例( https://super-simple-ruby-webserver.herokuapp.com )
+
 ## ファイル構成
 
 - app.rb アプリ本体(ファイル名は任意。Procfile内で指定する)
