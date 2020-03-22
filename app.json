@@ -1,0 +1,11 @@
+{
+    "name": "SuperSimpleRubyWebServerDeployToHeroku",
+    "description": "Super Simple Ruby WebServer Deploy to Heroku.",
+    "keywords": [
+      "webserver", "ruby"
+    ],
+    "website": "https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku",
+    "repository": "https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku",
+      "image": "heroku/ruby"
+    }
+  }
