@@ -8,6 +8,9 @@ Heroku公式のRubyのサンプルはいろいろとファイルが多いので�
 
 - 実際にデプロイして動作している例( https://super-simple-ruby-webserver.herokuapp.com )
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku)
+
+
 ## ファイル構成
 
 - app.rb アプリ本体(ファイル名は任意。Procfile内で指定する)
