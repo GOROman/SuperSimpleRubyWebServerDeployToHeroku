@@ -9,6 +9,5 @@
     "env": {
         "image": "heroku/ruby"
     }
-  }
 }
 
