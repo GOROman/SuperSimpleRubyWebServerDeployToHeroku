@@ -1,8 +1,7 @@
 # Super Simple Ruby WebServer Deploy to Heroku
 
 ![GitHub Actions](https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku/workflows/GitHub%20Actions/badge.svg)
-[![Omikuji](https://omikuji.net/badge.svg)](https://omikuji.net/)
-[![Omikuji](https://omikuji.net/badge.svg?ffffff)](https://omikuji.net/)
+[![Omikuji](https://omikuji.net/badge.svg?v=1&n=218a6691)](https://omikuji.net/)
 
 Heroku上にデプロイして最小限で実行できるWebサーバー
 
