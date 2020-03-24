@@ -1,6 +1,8 @@
 # Super Simple Ruby WebServer Deploy to Heroku
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/GOROman/SuperSimpleRubyWebServerDeployToHeroku.svg)](http://isitmaintained.com/project/GOROman/SuperSimpleRubyWebServerDeployToHeroku "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/GOROman/SuperSimpleRubyWebServerDeployToHeroku.svg)](http://isitmaintained.com/project/GOROman/SuperSimpleRubyWebServerDeployToHeroku "Percentage of issues still open")
 ![GitHub Actions](https://github.com/GOROman/SuperSimpleRubyWebServerDeployToHeroku/workflows/GitHub%20Actions/badge.svg)
 [![Omikuji](https://omikuji.net/badge.svg?v=1&n=218a6691)](https://omikuji.net/)
 
